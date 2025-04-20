@@ -17,9 +17,10 @@ A high-performance book management API built with Rust, Axum, and async-GraphQL.
 ```bash
 git clone https://github.com/yourname/bookgraphql
 cd bookgraphql
-cargo run```
+cargo run
+```
 
 
 ## Endpoints
-POST /graphql - GraphQL endpoint
-GET /graphql - GraphiQL IDE
+- POST /graphql - GraphQL endpoint
+- GET /graphql - GraphiQL IDE
